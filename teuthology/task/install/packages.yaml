@@ -1,0 +1,37 @@
+---
+zbkc:
+  deb:
+  - zbkc
+  - zbkc-mds
+  - zbkc-common
+  - zbkc-fuse
+  - zbkc-test
+  - radosgw
+  - python-zbkc
+  - libzbkcfs1
+  - libzbkcfs-java
+  - libzbkcfs-jni
+  - librados2
+  - librbd1
+  - rbd-fuse
+  - zbkc-dbg
+  - zbkc-mds-dbg
+  - zbkc-common-dbg
+  - zbkc-fuse-dbg
+  - radosgw-dbg
+  - libzbkcfs1-dbg
+  - librados2-dbg
+  - librbd1-dbg
+  rpm:
+  - zbkc-radosgw
+  - zbkc-test
+  - zbkc
+  - zbkc-fuse
+  - zbkcfs-java
+  - libzbkcfs_jni1
+  - libzbkcfs1
+  - librados2
+  - librbd1
+  - python-zbkc
+  - rbd-fuse
+  - zbkc-debuginfo
