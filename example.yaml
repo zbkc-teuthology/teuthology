@@ -1,0 +1,8 @@
+roles:
+- [mon.a osd.0 osd.1 osd.2 mds.a]
+targets:
+  typica003.zbstor.com: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC0rPU/IjQ3TfWBvWJSd4oMGZHqx0oid5WNo3DCU9wV+vVKZfGLz8iiPd90/vSMepFINkEXrVhDuIJunlOrjkw76xmPSuFf5V9v63eOKTkYeQaERtm6mbScaJ6WV/k3K/3Dz3UrY5U7kEjZUr31vH9sTxV6k8iGlHom3SdwRvigtw+kgkltfN/r1q+pbeU04ywmGlv7OlV3lf1WFXL2043mxtbtBqazjhmg7i6kHw9sp2d/5OysJhg3jKSfxGRj5mjvqRcyIcMVxCYJlfG0yvCDSdMI/dvODT4z5whmNMZBiuY1uv4/bWp9MfyfBXINGSRP6AcKp0JQNyEl+6D+sxp/
+tasks:
+#- install:
+#- zbkc:
+- nop:
